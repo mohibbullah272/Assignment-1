@@ -47,3 +47,131 @@ font-weight: 600;
 }
 /* banner style end hare */
 /* main section why web development style start hare */
+.first-content-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+width: 850px;
+height: 240px;
+}
+.second-content-container{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+width: 850px;
+height: 240px;
+}
+.third-content-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+width: 946px;
+height: 336px;
+}
+.development-container{
+width: 946px;
+height: 1060px;
+margin: 0 auto;
+margin-top: 74px;
+}
+ .first-content> p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+} 
+.first-content>h3{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.second-content >h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+ .second-content>p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+} 
+
+.third-content >p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+}
+.development-title>h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.development-title>p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+.third-content>h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.primary-btn{
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+opacity: 0.7;
+}
+/* inspiration section start hare */
+.ins-container{
+    margin: 0 auto;
+    text-align: center;
+}
+.ins-title{
+    margin-bottom: 48px;
+}
