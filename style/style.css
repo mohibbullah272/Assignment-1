@@ -300,7 +300,7 @@ font-size:20px;
 }
 /* footer style start hare */
 .footer-container{
-position: absolute;
+margin: 0 auto;
 width: 1440px;
 height: 100px;
 display: flex;
